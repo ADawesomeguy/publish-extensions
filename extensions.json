@@ -99,6 +99,9 @@
   "aurorabiz.blade-ui-kit": {
     "repository": "https://github.com/Y-open/blade-ui-kit-vscode"
   },
+  "azemoh.one-monokai": {
+    "repository": "https://github.com/azemoh/vscode-one-monokai"
+  },
   "bajdzis.vscode-database": {
     "repository": "https://github.com/Bajdzis/vscode-database"
   },
